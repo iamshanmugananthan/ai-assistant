@@ -1,5 +1,5 @@
 # ai-assistant
-ai assistantt developed using python
+ai assistant developed using python
 
 ai assistant built in python.the features are it can display time,say weather,open-google,youtube,instagram.
 
